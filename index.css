@@ -1,0 +1,33 @@
+body{
+    background-image: url(a.jpg.jpg);
+    background-position: center;
+    background-size: 130%;
+}
+
+button{
+    margin: auto;
+    font-size: 35px;
+    color: aliceblue;
+    text-align: center;
+    display:block;
+    border-radius: 50px;
+    cursor: pointer;
+    font-family: cursive;
+    background-color: rgb(220, 105, 05);
+
+
+}
+h1{
+    font-family: 'Serif';
+    color: rgb(221, 108, 15);
+     font-size: 75px;
+     justify-content: center;
+     text-align: center;
+}
+h3{
+    font-family: 'Serif';
+     color: rgb(221, 108, 15);
+     font-size: 50px;
+     justify-content: center;
+     text-align: center;
+}
